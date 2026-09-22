@@ -45,6 +45,10 @@ $env:CLAUDE_CODE_ENABLE_GATEWAY_MODEL_DISCOVERY = "1"
 [System.Environment]::SetEnvironmentVariable("CLAUDE_CODE_ENABLE_GATEWAY_MODEL_DISCOVERY", "1", "User")
 ```
 
+
+setx ANTHROPIC_AUTH_TOKEN "sk-or-v1-NAYI_KEY_YAHAN"
+** ye imp hai **
+
 > ⚠️ `sk-or-v1-APNA_KEY_YAHAN_LIKHO` ki jagah apni real OpenRouter API key daalo.
 
 ---
